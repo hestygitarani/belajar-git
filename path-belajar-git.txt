@@ -1,0 +1,4 @@
+Path Belajar Git & GitHub
+1. Create akun GitHub
+2. Belajar bikin repo di github
+3. Belajar bikin commit di GitHub.
