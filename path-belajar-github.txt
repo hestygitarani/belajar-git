@@ -1,5 +1,5 @@
 Path Belajar GitHub
-1. Pengenalan GitHub
+1. Pengenalan GitHub: Fungsi, Cara create
 2. Bekerja dengan GitHub
 3. GitHub : Branch
 4. GitHub : Fork 
