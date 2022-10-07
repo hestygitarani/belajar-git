@@ -4,7 +4,4 @@ Path Belajar Git:
 3. Git Merge Conflict
 4. Git Remote
 5. Multiple remote
-6. Remote Branch
-7. Git Ignore
-8. Git Rebase
-9. Git & Web Hosting
+
