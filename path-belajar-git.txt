@@ -1,6 +1,3 @@
 Path Belajar Git & GitHub
-1. Create akun GitHub
-2. Belajar bikin repo di github
-4. GitHub Branch
-5. GitHub Fork
-6. Belajar Git
+1. Belajar GitHub
+2. Belajar Git
