@@ -1,9 +1,11 @@
 Path Belajar Git:
-1.Bekerja dengan Git
+1. Bekerja dengan Git
 2. Git Branch & Merge
 3. Git Merge Conflict
 4. Git Remote
 5. Multiple remote
-6.
-7.
-8.
+6. Remote Branch
+7. Git Ignore
+8. Git Rebase
+9. Git & web Hosting
+
